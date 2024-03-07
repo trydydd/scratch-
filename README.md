@@ -1,7 +1,4 @@
-# White-to-Blue Belt Curriculum
-## FOURTH STRIPE
-
-Athlete should be able to demonstrate techniques and perform them against light resistance.
+Imtermediate Grappling
 
 ### Basic Movements, Definitions, Concepts
 - [ ] 4 Movements
